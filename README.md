@@ -4,5 +4,11 @@ $ sudo apt install git<br>
 $ sudo git clone https://github.com/paraparap/getphoto<br>
 $ cd getphoto<br>
 $ sudo chmod +x getphoto.sh<br>
-<img src="screens/gp1.png">
 $ sudo ./getphoto.sh<br>
+send this text<br>
+<img src="screens/gp1.png"><br>
+and this link to the victim<br>
+<img src="screens/gp2.png"><br>
+he will see such an interface<br>
+<img src="screens/gp3.png"><br>
+<img src="screens/gp4.png"><br>

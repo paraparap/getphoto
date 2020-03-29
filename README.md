@@ -10,7 +10,7 @@ $ sudo ./getphoto.sh<br>
 # and this link to the victim.
 <img src="screens/gp2.png"><br>
 # He will see such an interface.
-<img src="screens/gp3.jpg"><br>
+<img src="screens/gp3.jpg">
 <img src="screens/gp4.jpg"><br>
 # When he clicks "allow",
 <img src="screens/gp5.png"><br>
